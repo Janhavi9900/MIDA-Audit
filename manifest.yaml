@@ -1,0 +1,22 @@
+manifestVersion: 1
+info:
+  name: "MIDA Audit Engine"
+  description: "AI-powered lab deviation audit — assigns VERIFIED/JUSTIFIED/FAIL status"
+  version: "1.0.0"
+
+features:
+  - id: "mida_audit_canvas"
+    name: "MIDA Audit"
+    type: "CANVAS"
+    resourceTypes:
+      - "entry"
+
+configuration:
+  - id: "results_schema"
+    name: "Audit Results Schema"
+    type: "assay_schema"
+    required: true
+
+webhooks:
+  - eventType: "v2.canvas.interaction"
+  - eventType: "v2.canvas.initialized"
