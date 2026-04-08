@@ -1,0 +1,8 @@
+Run_ID,Vessel_Code,Batch_Type,Analyst_Name,Run_Date,Day_of_Culture,Fermentation_Temp_C,pH_Final,Protein_Concentration,Cell_Viability_Percent,Dissolved_O2_Saturation,CO2_Partial_Pressure_mmHg,Glucose_Consumption_g_per_L,Lactate_Production_mmol_per_L,NH3_Concentration_mM,Osmolality_mOsm_per_kg,Agitation_RPM
+BR-001,V-401,Standard,Analyst_A,2026-04-01,14,37.2,7.18,45.3,84.5,38.2,42.1,12.4,18.2,2.8,305,185
+BR-002,V-402,CCA,Analyst_B,2026-04-01,14,35.1,7.22,41.8,76.5,31.5,38.4,10.2,15.8,3.1,298,170
+BR-003,V-403,SU,Analyst_A,2026-04-02,14,37.5,7.31,39.2,73.8,42.0,45.2,14.8,19.4,2.5,312,195
+BR-004,V-404,Standard,Analyst_C,2026-04-02,14,38.5,7.08,28.5,82.1,24.8,62.5,8.5,21.8,4.8,355,148
+BR-005,V-405,PI,Analyst_B,2026-04-03,14,37.0,7.25,36.7,85.2,35.1,41.8,11.2,17.1,3.4,318,175
+BR-006,V-406,Standard,Analyst_A,2026-04-03,14,37.1,7.19,47.8,88.9,40.5,38.9,13.5,16.4,2.2,295,190
+BR-007,V-407,HF,Analyst_C,2026-04-04,14,36.9,7.33,44.1,81.7,33.8,44.7,18.9,23.2,3.9,358,210
